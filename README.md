@@ -3,6 +3,8 @@
 ## Overview
 This project is a real-time, audio-reactive visualizer built in Python. It captures live audio input and translates the frequency spectrum into a dynamic, orbiting solar system. The central "Sun" throbs in time with the heavy bass, while a series of orbiting "planets" react to the mid and high frequencies. As the planets orbit, their colors map beautifully across a spectrum from deep blue (inner orbits) to vibrant red (outer orbits), leaving a smooth motion-blur trail behind them.
 
+![Example_video](VideoProject5.mp4)
+
 ## Requirements & Setup
 To run this visualizer, you will need Python installed on your machine along with a few external libraries. 
 
